@@ -26,7 +26,7 @@ PORTFOLIO
     &nbsp
     <a href="https://www.facebook.com/googledevelopers/" style="color: white;"><i class="fab fa-facebook" style="font-size: 2em;"></i></a>
     &nbsp
-    <a href="https://github.com/#/" style="color: white;"><i class="fab fa-github" style="font-size: 2em;"></i></a>
+    <a href="https://github.com/muskansogani" style="color: white;"><i class="fab fa-github" style="font-size: 2em;"></i></a>
   </div>
 </div>
 
