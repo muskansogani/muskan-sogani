@@ -22,7 +22,7 @@ PORTFOLIO
   <div id="intro">
       <h2 style="font-family: 'Syncopate', sans-serif; font-weight: 10;">HII, I AM MUSKAN SOGANI&nbsp<a href="deedy.pdf" style="color: white;"><img src="assets/resume.png" height="35" width="35"></a></h2>
         <hr style="width: 50%; background-color: #E83951; border-color: #E83951;">
-    <a href="https://www.linkedin.com/company/gdscmu/mycompany/" style="color: white;"><i class="fab fa-linkedin" style="font-size: 2em;"></i></a>
+    <a href="https://www.linkedin.com/in/muskan-sogani-3723b7214/" style="color: white;"><i class="fab fa-linkedin" style="font-size: 2em;"></i></a>
     &nbsp
     <a href="https://www.facebook.com/googledevelopers/" style="color: white;"><i class="fab fa-facebook" style="font-size: 2em;"></i></a>
     &nbsp
